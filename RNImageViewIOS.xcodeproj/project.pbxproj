@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		E9792E9E1B180B7500DBF70E /* RNImageViewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = E9792E9D1B180B7500DBF70E /* RNImageViewManager.m */; };
-		E9792EA11B180D9200DBF70E /* RNImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = E9792EA01B180D9200DBF70E /* RNImageView.m */; };
+		E9792EC11B18194700DBF70E /* RNImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = E9792EC01B18194700DBF70E /* RNImageView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,8 +27,8 @@
 		E9792E7E1B180A2B00DBF70E /* libRNImageViewIOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libRNImageViewIOS.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9792E9C1B180B7500DBF70E /* RNImageViewManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNImageViewManager.h; sourceTree = "<group>"; };
 		E9792E9D1B180B7500DBF70E /* RNImageViewManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNImageViewManager.m; sourceTree = "<group>"; };
-		E9792E9F1B180D9200DBF70E /* RNImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = RNImageView.h; path = RNImageViewIOSManager/RNImageView.h; sourceTree = "<group>"; };
-		E9792EA01B180D9200DBF70E /* RNImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = RNImageView.m; path = RNImageViewIOSManager/RNImageView.m; sourceTree = "<group>"; };
+		E9792EBF1B18194700DBF70E /* RNImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNImageView.h; sourceTree = "<group>"; };
+		E9792EC01B18194700DBF70E /* RNImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RNImageView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -47,8 +47,8 @@
 			children = (
 				E9792E9C1B180B7500DBF70E /* RNImageViewManager.h */,
 				E9792E9D1B180B7500DBF70E /* RNImageViewManager.m */,
-				E9792E9F1B180D9200DBF70E /* RNImageView.h */,
-				E9792EA01B180D9200DBF70E /* RNImageView.m */,
+				E9792EBF1B18194700DBF70E /* RNImageView.h */,
+				E9792EC01B18194700DBF70E /* RNImageView.m */,
 				E9792E7F1B180A2B00DBF70E /* Products */,
 			);
 			sourceTree = "<group>";
@@ -117,7 +117,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E9792EA11B180D9200DBF70E /* RNImageView.m in Sources */,
+				E9792EC11B18194700DBF70E /* RNImageView.m in Sources */,
 				E9792E9E1B180B7500DBF70E /* RNImageViewManager.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

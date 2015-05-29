@@ -6,6 +6,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "files": [
+    "RNImageView.xcodeproj",
+    "index.js",
+    "README.md",
+    "RNImageView.h",
+    "RNImageView.m",
+    "RNImageViewManager.h",
+    "RNImageViewManager.m"
+  ],
   "author": "",
   "license": "MIT"
 }
