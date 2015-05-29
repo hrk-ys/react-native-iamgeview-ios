@@ -1,5 +1,11 @@
 # react-native-imageview-ios
 
+## Install
+
+```
+$ npm install git://github.com/hrk-ys/react-native-iamgeview-ios.git --save
+```
+
 ## Example
 
 ```
